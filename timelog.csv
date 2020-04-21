@@ -1,0 +1,364 @@
+Projet;Date;Semaine;Utilisateur;Activité;Demande;Tracker;Statut;Commentaire;Heures
+SE 2021 A2 - Desoutter;20/04/2020;17;Benjamin GONDANGE;Réalisation;Tâche #1342: Développer d'un script python qui automatise tout;Tâche;En cours;Amélioration du script, partage aux CdP;1,00
+SE 2021 A2 - Desoutter;20/04/2020;17;Benjamin GONDANGE;Réalisation;Tâche #1342: Développer d'un script python qui automatise tout;Tâche;En cours;Création du script;4,00
+SE 2021 A2 - Desoutter;20/04/2020;17;Gaston GUYOT;Réalisation;Tâche #1085: Réaliser grands principes de fonctionnement - Gaston;Tâche;En cours;Modification de l'architecture candidate et faire diagramme de communication - Gaston;2,50
+SE 2021 A2 - Desoutter;20/04/2020;17;THOMAS MAINDRON;Réalisation;Tâche #1269: Réaliser la description des composants - Thomas;Tâche;En cours;"";2,50
+SE 2021 A2 - Desoutter;20/04/2020;17;Ludovic SPILLEBOUT;Réalisation;Tâche #1281: Réaliser la description des composants - Ludovic;Tâche;En cours;Modification de la MaE Wapp;2,50
+SE 2021 A2 - Desoutter;20/04/2020;17;Gatien CHEVALLIER;Réalisation;Tâche #1343: Réorganisation du dossier qualite ;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;20/04/2020;17;Benjamin GONDANGE;rédaction;Tâche #1282: Réaliser la description des composants - Benjamin;Tâche;En cours;Modification de la machine à états superviseur par rapport au dernier consulting;1,00
+SE 2021 A2 - Desoutter;17/04/2020;16;Gatien CHEVALLIER;Réalisation;Tâche #1333: Ajout des exemples en C et Java sur le dépôt;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;15/04/2020;16;Ludovic SPILLEBOUT;Réalisation;Tâche #817: Rédaction scénarios de validation - Ludovic;Tâche;En cours;Ajout des composant correspondants aux SdV;1,00
+SE 2021 A2 - Desoutter;15/04/2020;16;Gatien CHEVALLIER;Réalisation;Tâche #1193: Configuration de l'outil TestLink;Tâche;Nouveau;"";2,00
+SE 2021 A2 - Desoutter;15/04/2020;16;Gaston GUYOT;Réalisation;Réunion #1290: Consulting Conception/AC/MaE - M. DELATOUR - 15 avril;Réunion;Fermé;Consulting Conception/AC/MaE - M. DELATOUR - 15 avril - Gaston;0,75
+SE 2021 A2 - Desoutter;15/04/2020;16;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #1290: Consulting Conception/AC/MaE - M. DELATOUR - 15 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;15/04/2020;16;Ludovic SPILLEBOUT;Réalisation;Réunion #1290: Consulting Conception/AC/MaE - M. DELATOUR - 15 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;15/04/2020;16;THOMAS MAINDRON;Réalisation;Réunion #1290: Consulting Conception/AC/MaE - M. DELATOUR - 15 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;15/04/2020;16;Benjamin GONDANGE;Réunion;Réunion #1290: Consulting Conception/AC/MaE - M. DELATOUR - 15 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;14/04/2020;16;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #1286: Réaliser la description des composants - JB;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;14/04/2020;16;Gwendal COUEDEL;Réalisation;Réunion #1266: Consulting Architecture Candidate - M. DELATOUR - 09 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;14/04/2020;16;Ludovic SPILLEBOUT;Réalisation;Réunion #1266: Consulting Architecture Candidate - M. DELATOUR - 09 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;14/04/2020;16;Baptiste GENIER;Réalisation;Tâche #1285: Réaliser la description des composants - Baptiste;Tâche;Nouveau;Classes Cardiologist et Journalist;2,33
+SE 2021 A2 - Desoutter;14/04/2020;16;Gatien CHEVALLIER;Réalisation;Tâche #1284: Réaliser la description des composants - Gatien;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;14/04/2020;16;Gwendal COUEDEL;Réalisation;Tâche #1283: Réaliser la description des Composants - Gwendal;Tâche;Nouveau;"";2,33
+SE 2021 A2 - Desoutter;14/04/2020;16;Benjamin GONDANGE;Réalisation;Tâche #1282: Réaliser la description des composants - Benjamin;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;14/04/2020;16;Gaston GUYOT;Réalisation;Tâche #1268: Réaliser la description des composants - Gaston;Tâche;En cours;Rédaction de la MaE InterfaceSuperviseur - Gaston;3,00
+SE 2021 A2 - Desoutter;14/04/2020;16;THOMAS MAINDRON;Réalisation;Tâche #1269: Réaliser la description des composants - Thomas;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;14/04/2020;16;Ludovic SPILLEBOUT;Réalisation;Tâche #1281: Réaliser la description des composants - Ludovic;Tâche;En cours;Rédaction de la description de la classe InterfaceOperator;3,00
+SE 2021 A2 - Desoutter;13/04/2020;16;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Baptiste GENIER;Réunion;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Baptiste GENIER;Réalisation;Tâche #1285: Réaliser la description des composants - Baptiste;Tâche;Nouveau;"";1,50
+SE 2021 A2 - Desoutter;13/04/2020;16;Ludovic SPILLEBOUT;Réalisation;Tâche #542: Explorer la Connect;Tâche;En cours;Réussite d'interaction entre le logiciel Open Protocol Simulator et l'outil mais toujours pas de réussite d'affichage des caractéristiques du visage sur la Connect.;1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;THOMAS MAINDRON;Réunion;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Gwendal COUEDEL;Réalisation;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Gwendal COUEDEL;Réalisation;Réunion #1270: Réunion mise au point conception - 11 avril;Réunion;Fermé;"";0,33
+SE 2021 A2 - Desoutter;13/04/2020;16;Ludovic SPILLEBOUT;Réalisation;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Gatien CHEVALLIER;Réunion;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Gaston GUYOT;Réunion;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;Réunion mise au point conception - 13 avril - Gaston;1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Benjamin GONDANGE;Réunion;Réunion #1271: Réunion mise ua point conception - 13 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/04/2020;16;Benjamin GONDANGE;Réalisation;Tâche #333: Organiser Redmine;Tâche;En cours;"";0,33
+SE 2021 A2 - Desoutter;13/04/2020;16;THOMAS MAINDRON;Réalisation;Tâche #1269: Réaliser la description des composants - Thomas;Tâche;En cours;"";1,50
+SE 2021 A2 - Desoutter;13/04/2020;16;Gaston GUYOT;Réalisation;Tâche #1268: Réaliser la description des composants - Gaston;Tâche;En cours;Rédiger le début de la description des composants - Gaston;1,50
+SE 2021 A2 - Desoutter;12/04/2020;15;Ludovic SPILLEBOUT;expérimentation;Tâche #542: Explorer la Connect;Tâche;En cours;Réussite de connexion de l'outil à la Connect mais impossible d'observer des messages avec Open Protocol Simulator.;2,00
+SE 2021 A2 - Desoutter;12/04/2020;15;Baptiste GENIER;Réalisation;Tâche #1112: Réaliser schéma architecture candidate - Baptiste;Tâche;Nouveau;"";0,50
+SE 2021 A2 - Desoutter;12/04/2020;15;Baptiste GENIER;Réalisation;Tâche #1084: Réaliser grands principes de fonctionnement - Baptiste;Tâche;En cours;"";1,50
+SE 2021 A2 - Desoutter;12/04/2020;15;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";2,50
+SE 2021 A2 - Desoutter;12/04/2020;15;Gaston GUYOT;Réalisation;Tâche #1085: Réaliser grands principes de fonctionnement - Gaston;Tâche;En cours;Rédaction des diagrammes de séquence - Gaston;2,50
+SE 2021 A2 - Desoutter;11/04/2020;15;Benjamin GONDANGE;Réunion;Réunion #1270: Réunion mise au point conception - 11 avril;Réunion;Fermé;"";0,33
+SE 2021 A2 - Desoutter;11/04/2020;15;Benjamin GONDANGE;expérimentation;Tâche #542: Explorer la Connect;Tâche;En cours;Réglage problème réseau, connection en SSH, tests avec OpenProtocol;3,00
+SE 2021 A2 - Desoutter;11/04/2020;15;Ludovic SPILLEBOUT;expérimentation;Tâche #542: Explorer la Connect;Tâche;En cours;Connexion à la Connect réussie par ssh.;3,00
+SE 2021 A2 - Desoutter;09/04/2020;15;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #1266: Consulting Architecture Candidate - M. DELATOUR - 09 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;09/04/2020;15;Baptiste GENIER;Réunion;Réunion #1266: Consulting Architecture Candidate - M. DELATOUR - 09 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;09/04/2020;15;Benjamin GONDANGE;Réunion;Réunion #1266: Consulting Architecture Candidate - M. DELATOUR - 09 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;09/04/2020;15;THOMAS MAINDRON;Réunion;Réunion #1266: Consulting Architecture Candidate - M. DELATOUR - 09 avril;Réunion;Fermé;"";0,83
+SE 2021 A2 - Desoutter;09/04/2020;15;Gaston GUYOT;Réunion;Réunion #1266: Consulting Architecture Candidate - M. DELATOUR - 09 avril;Réunion;Fermé;Consulting Architecture Candidate - M. DELATOUR - 09 avril - Gaston;0,83
+SE 2021 A2 - Desoutter;09/04/2020;15;Baptiste GENIER;Réalisation;Tâche #1112: Réaliser schéma architecture candidate - Baptiste;Tâche;Nouveau;"";0,50
+SE 2021 A2 - Desoutter;09/04/2020;15;Baptiste GENIER;Réalisation;Tâche #1084: Réaliser grands principes de fonctionnement - Baptiste;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;09/04/2020;15;Gatien CHEVALLIER;relecture;Tâche #1197: Relecture des Scénarios de Validations;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;09/04/2020;15;Gatien CHEVALLIER;Réalisation;Tâche #1193: Configuration de l'outil TestLink;Tâche;Nouveau;"";2,50
+SE 2021 A2 - Desoutter;09/04/2020;15;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;09/04/2020;15;Gaston GUYOT;Réalisation;Tâche #1085: Réaliser grands principes de fonctionnement - Gaston;Tâche;En cours;Rédaction des diagrammes de séquence - Gaston;2,50
+SE 2021 A2 - Desoutter;08/04/2020;15;Gwendal COUEDEL;Réalisation;Tâche #1173: Relecture des scénarios de validation;Tâche;Nouveau;"";2,75
+SE 2021 A2 - Desoutter;07/04/2020;15;Baptiste GENIER;Réunion;Réunion #1090: Consulting Architecture Candidate - M. DELATOUR - 07 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;07/04/2020;15;Baptiste GENIER;Réalisation;Tâche #1112: Réaliser schéma architecture candidate - Baptiste;Tâche;Nouveau;"";0,75
+SE 2021 A2 - Desoutter;07/04/2020;15;Baptiste GENIER;Réalisation;Tâche #1084: Réaliser grands principes de fonctionnement - Baptiste;Tâche;En cours;"";1,50
+SE 2021 A2 - Desoutter;07/04/2020;15;Ludovic SPILLEBOUT;rédaction;Tâche #817: Rédaction scénarios de validation - Ludovic;Tâche;En cours;"Transcription des scénario sen LateX et ajout du scénario ""Alerter Sapp d?une chute factice""";3,00
+SE 2021 A2 - Desoutter;07/04/2020;15;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";0,50
+SE 2021 A2 - Desoutter;07/04/2020;15;Gaston GUYOT;Réalisation;Tâche #1085: Réaliser grands principes de fonctionnement - Gaston;Tâche;En cours;Modification des diagrammes de séquences - Gaston;0,50
+SE 2021 A2 - Desoutter;07/04/2020;15;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #1090: Consulting Architecture Candidate - M. DELATOUR - 07 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;07/04/2020;15;Gaston GUYOT;Réalisation;Réunion #1090: Consulting Architecture Candidate - M. DELATOUR - 07 avril;Réunion;Fermé;Consulting Architecture Candidate - M. DELATOUR - 07 avril - Gaston;0,75
+SE 2021 A2 - Desoutter;07/04/2020;15;Gaston GUYOT;Réalisation;Tâche #1085: Réaliser grands principes de fonctionnement - Gaston;Tâche;En cours;Modification de l'architecture candidate - Gaston;1,50
+SE 2021 A2 - Desoutter;07/04/2020;15;THOMAS MAINDRON;Réalisation;Tâche #1081: Rédiger grand principe de fonctionnement;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;07/04/2020;15;THOMAS MAINDRON;Réalisation;Réunion #1090: Consulting Architecture Candidate - M. DELATOUR - 07 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;07/04/2020;15;Ludovic SPILLEBOUT;Réunion;Réunion #1089: Consulting Scénarios de Validation - Mme. CONSTANT - 06 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;07/04/2020;15;Benjamin GONDANGE;Réunion;Réunion #1090: Consulting Architecture Candidate - M. DELATOUR - 07 avril;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;06/04/2020;15;Benjamin GONDANGE;Réunion;Réunion #1089: Consulting Scénarios de Validation - Mme. CONSTANT - 06 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;05/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;05/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";1,50
+SE 2021 A2 - Desoutter;05/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;04/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;04/04/2020;14;Gwendal COUEDEL;Réalisation;Tâche #806: Rédaction scénarios de validation - Gwendal;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;03/04/2020;14;Baptiste GENIER;Réalisation;Tâche #1112: Réaliser schéma architecture candidate - Baptiste;Tâche;Nouveau;Changements dans architecture candidate post consulting 3/04 après midi;1,00
+SE 2021 A2 - Desoutter;03/04/2020;14;Baptiste GENIER;Réalisation;Tâche #1112: Réaliser schéma architecture candidate - Baptiste;Tâche;Nouveau;Correction architecture candidate post consulting 3/04 après midi;2,25
+SE 2021 A2 - Desoutter;03/04/2020;14;Baptiste GENIER;Réalisation;Tâche #1112: Réaliser schéma architecture candidate - Baptiste;Tâche;Nouveau;pré consulting;0,75
+SE 2021 A2 - Desoutter;03/04/2020;14;Baptiste GENIER;Réalisation;Tâche #1084: Réaliser grands principes de fonctionnement - Baptiste;Tâche;En cours;matin;1,50
+SE 2021 A2 - Desoutter;03/04/2020;14;Baptiste GENIER;Réunion;Réunion #1088: Consulting Architecture Concurrente/Diagramme de séquence - M. DELATOUR - 03 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;03/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";4,50
+SE 2021 A2 - Desoutter;03/04/2020;14;Ludovic SPILLEBOUT;relecture;Tâche #1103: Relecture du document - Ludovic;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;03/04/2020;14;Gaston GUYOT;Réalisation;Tâche #1085: Réaliser grands principes de fonctionnement - Gaston;Tâche;En cours;Rédaction architecture candidate - Gaston;3,25
+SE 2021 A2 - Desoutter;03/04/2020;14;Ludovic SPILLEBOUT;Réalisation;Tâche #843: Rédiger les fonctions principales développées - Ludovic;Tâche;Fermé;Correction CUs suite à la rédaction des SdV;0,17
+SE 2021 A2 - Desoutter;03/04/2020;14;Gatien CHEVALLIER;Réalisation;Tâche #985: Rédiger Plan de Test - Gatien;Tâche;En relecture;"";3,00
+SE 2021 A2 - Desoutter;03/04/2020;14;Benjamin GONDANGE;Réalisation;Tâche #1066: Rédaction du contrat client - Benjamin;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;03/04/2020;14;Benjamin GONDANGE;relecture;Tâche #165: Relire le PAQL - Benjamin;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;03/04/2020;14;Ludovic SPILLEBOUT;expérimentation;Tâche #542: Explorer la Connect;Tâche;En cours;Tentatives de connexion à la Connect;2,00
+SE 2021 A2 - Desoutter;03/04/2020;14;Ludovic SPILLEBOUT;Réalisation;Réunion #1088: Consulting Architecture Concurrente/Diagramme de séquence - M. DELATOUR - 03 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;03/04/2020;14;Gaston GUYOT;Réalisation;Réunion #1088: Consulting Architecture Concurrente/Diagramme de séquence - M. DELATOUR - 03 avril;Réunion;Fermé;Consulting Architecture Concurrente/Diagramme de séquence - M. DELATOUR - 03 avril - Gaston;0,50
+SE 2021 A2 - Desoutter;03/04/2020;14;THOMAS MAINDRON;Réunion;Réunion #1088: Consulting Architecture Concurrente/Diagramme de séquence - M. DELATOUR - 03 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;03/04/2020;14;Benjamin GONDANGE;Réalisation;Réunion #1088: Consulting Architecture Concurrente/Diagramme de séquence - M. DELATOUR - 03 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;03/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1087: Réaliser grands principes de fonctionnement - Thomas;Tâche;En cours;"";1,33
+SE 2021 A2 - Desoutter;03/04/2020;14;Gaston GUYOT;Réalisation;Tâche #1083: Réaliser schéma architecture candidate - Gaston;Tâche;En cours;Rédaction schéma architecture candidate pré-consulting;2,00
+SE 2021 A2 - Desoutter;03/04/2020;14;Gaston GUYOT;Réalisation;Tâche #1083: Réaliser schéma architecture candidate - Gaston;Tâche;En cours;Rédaction schéma architecture candidate post-consulting;0,75
+SE 2021 A2 - Desoutter;03/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1035: Réaliser schéma architecture candidate - Thomas;Tâche;En cours;"";0,75
+SE 2021 A2 - Desoutter;02/04/2020;14;Baptiste GENIER;Réalisation;Tâche #1112: Réaliser schéma architecture candidate - Baptiste;Tâche;Nouveau;"";2,00
+SE 2021 A2 - Desoutter;02/04/2020;14;Baptiste GENIER;Réalisation;Réunion #1034: Consulting Architecture Concurrente - M. DELATOUR - 02 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;02/04/2020;14;Benjamin GONDANGE;Réunion;Réunion #1034: Consulting Architecture Concurrente - M. DELATOUR - 02 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;02/04/2020;14;Gatien CHEVALLIER;Réunion;Réunion #1034: Consulting Architecture Concurrente - M. DELATOUR - 02 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;02/04/2020;14;Gwendal COUEDEL;Réalisation;Réunion #1025: Réunion Conception - 01 avril;Réunion;Fermé;"";0,67
+SE 2021 A2 - Desoutter;02/04/2020;14;Gwendal COUEDEL;Réalisation;Tâche #806: Rédaction scénarios de validation - Gwendal;Tâche;En cours;"";3,75
+SE 2021 A2 - Desoutter;02/04/2020;14;Gwendal COUEDEL;Réalisation;Réunion #1034: Consulting Architecture Concurrente - M. DELATOUR - 02 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;02/04/2020;14;Ludovic SPILLEBOUT;Réalisation;Réunion #1034: Consulting Architecture Concurrente - M. DELATOUR - 02 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;02/04/2020;14;Ludovic SPILLEBOUT;rédaction;Tâche #817: Rédaction scénarios de validation - Ludovic;Tâche;En cours;Rédaction scénarios de validation adaptés à la v1;3,75
+SE 2021 A2 - Desoutter;02/04/2020;14;THOMAS MAINDRON;Réunion;Réunion #1034: Consulting Architecture Concurrente - M. DELATOUR - 02 avril;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;02/04/2020;14;Benjamin GONDANGE;Réalisation;Tâche #1066: Rédaction du contrat client - Benjamin;Tâche;En cours;Rédaction du contrat, mise en place du devis du projet, séparation précise et écrite des v1 et v2;3,50
+SE 2021 A2 - Desoutter;02/04/2020;14;Gaston GUYOT;Réunion;Réunion #1025: Réunion Conception - 01 avril;Réunion;Fermé;Réunion conception - 01 avril;0,67
+SE 2021 A2 - Desoutter;02/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1035: Réaliser schéma architecture candidate - Thomas;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;01/04/2020;14;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #1025: Réunion Conception - 01 avril;Réunion;Fermé;"";0,67
+SE 2021 A2 - Desoutter;01/04/2020;14;Baptiste GENIER;Réunion;Réunion #1025: Réunion Conception - 01 avril;Réunion;Fermé;"";0,67
+SE 2021 A2 - Desoutter;01/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1035: Réaliser schéma architecture candidate - Thomas;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;01/04/2020;14;Benjamin GONDANGE;Réalisation;Tâche #333: Organiser Redmine;Tâche;En cours;"";0,50
+SE 2021 A2 - Desoutter;01/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1032: Rédiger la partie introductive - Thomas;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;01/04/2020;14;THOMAS MAINDRON;Réunion;Réunion #1025: Réunion Conception - 01 avril;Réunion;Fermé;"";0,67
+SE 2021 A2 - Desoutter;01/04/2020;14;Gatien CHEVALLIER;Réunion;Réunion #1025: Réunion Conception - 01 avril;Réunion;Fermé;"";0,67
+SE 2021 A2 - Desoutter;01/04/2020;14;Benjamin GONDANGE;Réunion;Réunion #1025: Réunion Conception - 01 avril;Réunion;Fermé;"";0,67
+SE 2021 A2 - Desoutter;01/04/2020;14;Gatien CHEVALLIER;Réunion;Réunion #1016: Consulting Scénarios de Validation - Mme. CONSTANT - 01 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;01/04/2020;14;Gwendal COUEDEL;Réalisation;Tâche #1017: Nommer champs des ihms;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;01/04/2020;14;Gwendal COUEDEL;Réalisation;Tâche #806: Rédaction scénarios de validation - Gwendal;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;01/04/2020;14;Gwendal COUEDEL;Réunion;Réunion #1016: Consulting Scénarios de Validation - Mme. CONSTANT - 01 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;01/04/2020;14;Ludovic SPILLEBOUT;Réunion;Réunion #1016: Consulting Scénarios de Validation - Mme. CONSTANT - 01 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;01/04/2020;14;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #1017: Nommer champs des ihms;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;01/04/2020;14;THOMAS MAINDRON;Réalisation;Tâche #1017: Nommer champs des ihms;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;01/04/2020;14;Ludovic SPILLEBOUT;Réunion;Tâche #1017: Nommer champs des ihms;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;01/04/2020;14;Gatien CHEVALLIER;Réalisation;Tâche #1006: Application des modifications post audit-blanc à la V1;Tâche;En cours;"";4,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Gatien CHEVALLIER;Réalisation;Tâche #1006: Application des modifications post audit-blanc à la V1;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Benjamin GONDANGE;Réalisation;Tâche #999: Créer le squelette du document - Benjamin;Tâche;Fermé;Création du document en LaTeX et création des sous-parties sur le git;1,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Benjamin GONDANGE;Réalisation;Tâche #995: Rédiger guide Redmine - Benjamin;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;31/03/2020;14;Gwendal COUEDEL;Réalisation;Tâche #806: Rédaction scénarios de validation - Gwendal;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Gwendal COUEDEL;Réunion;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Gwendal COUEDEL;Réunion;Réunion #983: Réunion CU - 22 mars;Réunion;Fermé;"";2,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Gwendal COUEDEL;Réunion;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;31/03/2020;14;Ludovic SPILLEBOUT;Réunion;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Ludovic SPILLEBOUT;Réunion;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;31/03/2020;14;Ludovic SPILLEBOUT;Réalisation;Tâche #542: Explorer la Connect;Tâche;En cours;"Lecture documentation du protocole Open Protocol et rédaction du document ""Résumé Open Protocol""";2,00
+SE 2021 A2 - Desoutter;31/03/2020;14;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;31/03/2020;14;Gaston GUYOT;Réunion;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;Réunion CU;1,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Gaston GUYOT;Réalisation;Réunion #983: Réunion CU - 22 mars;Réunion;Fermé;Réunion CU;2,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Gaston GUYOT;Réalisation;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;Réunion hebdomadaire - 30 mars;0,75
+SE 2021 A2 - Desoutter;31/03/2020;14;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Correction erreur cohérence derniers CU et dictionnaire et relecture;0,50
+SE 2021 A2 - Desoutter;31/03/2020;14;Benjamin GONDANGE;Réalisation;Tâche #333: Organiser Redmine;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;31/03/2020;14;Benjamin GONDANGE;Réalisation;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;30/03/2020;14;Gatien CHEVALLIER;Réunion;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;30/03/2020;14;THOMAS MAINDRON;Réunion;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;30/03/2020;14;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Ajustement spec V1 post audit consultatif avec Gaston;3,00
+SE 2021 A2 - Desoutter;30/03/2020;14;Baptiste GENIER;Réunion;Réunion #981: Réunion hebdomadaire - 30 mars;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;30/03/2020;14;Gatien CHEVALLIER;Réalisation;Tâche #164: Rédiger la v1;Tâche;En cours;"";4,00
+SE 2021 A2 - Desoutter;30/03/2020;14;Gatien CHEVALLIER;relecture;Tâche #337: Relire le document - Gatien;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;30/03/2020;14;Gwendal COUEDEL;Réalisation;Tâche #806: Rédaction scénarios de validation - Gwendal;Tâche;En cours;"";4,00
+SE 2021 A2 - Desoutter;30/03/2020;14;Gwendal COUEDEL;Réunion;Tâche #894: Audits;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;30/03/2020;14;THOMAS MAINDRON;Réalisation;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;Modification suite à l'audit;1,00
+SE 2021 A2 - Desoutter;30/03/2020;14;THOMAS MAINDRON;Réalisation;Tâche #92: Apprentissage;Tâche;En cours;Apprentissage PlantUML - Thomas;1,50
+SE 2021 A2 - Desoutter;30/03/2020;14;THOMAS MAINDRON;Réalisation;Tâche #92: Apprentissage;Tâche;En cours;Apprentissage Latex - Thomas;1,50
+SE 2021 A2 - Desoutter;30/03/2020;14;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #910: Finaliser IHM Physique Smartwatch- JB;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;30/03/2020;14;Ludovic SPILLEBOUT;rédaction;Tâche #817: Rédaction scénarios de validation - Ludovic;Tâche;En cours;Premières modifs post audit consultatif;3,00
+SE 2021 A2 - Desoutter;30/03/2020;14;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #909: Finaliser IHM Physique Smartphone- JB;Tâche;Fermé;"";1,50
+SE 2021 A2 - Desoutter;30/03/2020;14;Gaston GUYOT;Réalisation;Tâche #896: Audit Spécifications 27/03/2020;Tâche;Fermé;Audit consultatif;1,50
+SE 2021 A2 - Desoutter;30/03/2020;14;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Réctification de l'environement et des CU avec Baptiste;3,00
+SE 2021 A2 - Desoutter;30/03/2020;14;Ludovic SPILLEBOUT;Réunion;Tâche #895: Audit PdT - SdV 27/03/20;Tâche;Fermé;"";1,50
+SE 2021 A2 - Desoutter;30/03/2020;14;Benjamin GONDANGE;Réalisation;Tâche #896: Audit Spécifications 27/03/2020;Tâche;Fermé;"";1,50
+SE 2021 A2 - Desoutter;30/03/2020;14;Benjamin GONDANGE;Réalisation;Tâche #895: Audit PdT - SdV 27/03/20;Tâche;Fermé;"";1,50
+SE 2021 A2 - Desoutter;27/03/2020;13;Baptiste GENIER;Réunion;Tâche #896: Audit Spécifications 27/03/2020;Tâche;Fermé;Audit consultatif specifications;1,50
+SE 2021 A2 - Desoutter;27/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #911: Relire le document - JB;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;27/03/2020;13;THOMAS MAINDRON;Réunion;Tâche #896: Audit Spécifications 27/03/2020;Tâche;Fermé;Audit Spec;1,50
+SE 2021 A2 - Desoutter;27/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #896: Audit Spécifications 27/03/2020;Tâche;Fermé;"";1,50
+SE 2021 A2 - Desoutter;27/03/2020;13;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Relecture générale du cahier de spec;4,50
+SE 2021 A2 - Desoutter;27/03/2020;13;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Relecture en groupe et derniers ajustements du doc de spec;4,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Ludovic SPILLEBOUT;rédaction;Tâche #843: Rédiger les fonctions principales développées - Ludovic;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Ludovic SPILLEBOUT;rédaction;Tâche #817: Rédaction scénarios de validation - Ludovic;Tâche;En cours;"";6,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Benjamin GONDANGE;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;"";3,50
+SE 2021 A2 - Desoutter;27/03/2020;13;Gwendal COUEDEL;Réalisation;Tâche #503: Consulting;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Benjamin GONDANGE;Réalisation;Réunion #872: Consulting Spécifications - M. DELATOUR - 26 mars matin;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;27/03/2020;13;Benjamin GONDANGE;Réalisation;Réunion #873: Consulting Spécifications - M. DELATOUR - 26 mars après-midi;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Benjamin GONDANGE;Réalisation;Tâche #328: Rédiger la partie introductive;Tâche;Fermé;"";7,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gaston GUYOT;Réalisation;Tâche #503: Consulting;Tâche;En cours;Consulting jeudi aprem;1,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gaston GUYOT;Réalisation;Tâche #503: Consulting;Tâche;En cours;Consulting jeudi matin;0,75
+SE 2021 A2 - Desoutter;27/03/2020;13;Ludovic SPILLEBOUT;Réunion;Réunion #872: Consulting Spécifications - M. DELATOUR - 26 mars matin;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;27/03/2020;13;Gaston GUYOT;Réalisation;Tâche #503: Consulting;Tâche;En cours;Consulting mercredi;1,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gwendal COUEDEL;Réalisation;Tâche #806: Rédaction scénarios de validation - Gwendal;Tâche;En cours;"";6,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Toutes les modifs de spec depuis le début de la semaine;10,50
+SE 2021 A2 - Desoutter;27/03/2020;13;Ludovic SPILLEBOUT;Réunion;Réunion #873: Consulting Spécifications - M. DELATOUR - 26 mars après-midi;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gatien CHEVALLIER;relecture;Tâche #337: Relire le document - Gatien;Tâche;Fermé;"";5,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gatien CHEVALLIER;Réalisation;Tâche #985: Rédiger Plan de Test - Gatien;Tâche;En relecture;"";10,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gatien CHEVALLIER;Réalisation;Réunion #873: Consulting Spécifications - M. DELATOUR - 26 mars après-midi;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;27/03/2020;13;Gatien CHEVALLIER;Réunion;Réunion #872: Consulting Spécifications - M. DELATOUR - 26 mars matin;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Relecture commune et derniers ajustements des CU corrigés;1,50
+SE 2021 A2 - Desoutter;26/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #912: Relire les CU - JB;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;26/03/2020;13;THOMAS MAINDRON;Réunion;Tâche #503: Consulting;Tâche;En cours;jeudi aprem;1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;THOMAS MAINDRON;Réunion;Tâche #503: Consulting;Tâche;En cours;jeudi matin;1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #873: Consulting Spécifications - M. DELATOUR - 26 mars après-midi;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #872: Consulting Spécifications - M. DELATOUR - 26 mars matin;Réunion;Fermé;"";0,75
+SE 2021 A2 - Desoutter;26/03/2020;13;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Revisions et ajouts de toute la première partie du document spec jusqu'aux CU;4,00
+SE 2021 A2 - Desoutter;26/03/2020;13;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Correction des CU post consulting du matin pour consulting de 17h30;3,25
+SE 2021 A2 - Desoutter;26/03/2020;13;Baptiste GENIER;Réunion;Réunion #872: Consulting Spécifications - M. DELATOUR - 26 mars matin;Réunion;Fermé;"";0,58
+SE 2021 A2 - Desoutter;26/03/2020;13;Baptiste GENIER;Réunion;Réunion #873: Consulting Spécifications - M. DELATOUR - 26 mars après-midi;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;Gwendal COUEDEL;Réalisation;Réunion #530: Réunions hebdomadaires;Réunion;En cours;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;Gatien CHEVALLIER;Réunion;Réunion #871: Consulting Scénarios de Validation - Mme. CONSTANT - 26 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;THOMAS MAINDRON;Réalisation;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";6,00
+SE 2021 A2 - Desoutter;26/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #863: Réaliser IHM Physique connect - JB;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #518: Réaliser IHM Physique Smartphone- JB;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;26/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #803: Réaliser IHM Physique Smartwatch- JB;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;26/03/2020;13;Gwendal COUEDEL;Réunion;Tâche #503: Consulting;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;Benjamin GONDANGE;Réalisation;Tâche #847: Rédiger la parte interfaces logiques;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;26/03/2020;13;Benjamin GONDANGE;Réalisation;Tâche #518: Réaliser IHM Physique Smartphone- JB;Tâche;Fermé;Ajout des ecrans dans le dossier de specs;1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;THOMAS MAINDRON;Réunion;Tâche #503: Consulting;Tâche;En cours;mercredi;1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #833: Consulting Specifications - M. DELATOUR - 25 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Gwendal COUEDEL;Réalisation;Réunion #530: Réunions hebdomadaires;Réunion;En cours;"";1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;THOMAS MAINDRON;Réalisation;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Ludovic SPILLEBOUT;rédaction;Tâche #843: Rédiger les fonctions principales développées - Ludovic;Tâche;Fermé;Rédaction CUs suite au consulting du 26/03;5,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;"";1,25
+SE 2021 A2 - Desoutter;25/03/2020;13;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;"";3,33
+SE 2021 A2 - Desoutter;25/03/2020;13;Benjamin GONDANGE;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;"";6,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Baptiste GENIER;Réunion;Réunion #833: Consulting Specifications - M. DELATOUR - 25 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Gatien CHEVALLIER;Réalisation;Réunion #724: Consulting CUs - M. DELATOUR - 19 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Gatien CHEVALLIER;Réunion;Réunion #833: Consulting Specifications - M. DELATOUR - 25 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Gatien CHEVALLIER;Réalisation;Tâche #985: Rédiger Plan de Test - Gatien;Tâche;En relecture;"";7,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Gwendal COUEDEL;Réunion;Tâche #503: Consulting;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Ludovic SPILLEBOUT;Réunion;Réunion #833: Consulting Specifications - M. DELATOUR - 25 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;25/03/2020;13;Benjamin GONDANGE;Réunion;Réunion #833: Consulting Specifications - M. DELATOUR - 25 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;24/03/2020;13;THOMAS MAINDRON;Réalisation;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;24/03/2020;13;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;24/03/2020;13;Ludovic SPILLEBOUT;rédaction;Tâche #817: Rédaction scénarios de validation - Ludovic;Tâche;En cours;Rédaction scénario validation : Le superviseur connecte Sapp à Capp;2,00
+SE 2021 A2 - Desoutter;24/03/2020;13;Gwendal COUEDEL;Réalisation;Tâche #806: Rédaction scénarios de validation - Gwendal;Tâche;En cours;"";1,50
+SE 2021 A2 - Desoutter;24/03/2020;13;Benjamin GONDANGE;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;CU Transmettre les donénes;1,00
+SE 2021 A2 - Desoutter;24/03/2020;13;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Révision CU transmettre les données supervision;1,00
+SE 2021 A2 - Desoutter;24/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #803: Réaliser IHM Physique Smartwatch- JB;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;23/03/2020;13;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #518: Réaliser IHM Physique Smartphone- JB;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;23/03/2020;13;THOMAS MAINDRON;rédaction;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;23/03/2020;13;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Réunion de vérification des CU et ajout des liens hypertext;2,00
+SE 2021 A2 - Desoutter;23/03/2020;13;Ludovic SPILLEBOUT;expérimentation;Tâche #542: Explorer la Connect;Tâche;En cours;Lecture documentation et première mise en route de la Connect pour comprendre son fonctionnement;3,00
+SE 2021 A2 - Desoutter;23/03/2020;13;Ludovic SPILLEBOUT;Réalisation;Tâche #480: Rédiger architecture matérielle et logicielle - Ludovic;Tâche;Fermé;"";0,50
+SE 2021 A2 - Desoutter;22/03/2020;12;Gatien CHEVALLIER;Réunion;Réunion #983: Réunion CU - 22 mars;Réunion;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Benjamin GONDANGE;Réunion;Réunion #983: Réunion CU - 22 mars;Réunion;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Baptiste GENIER;Réunion;Réunion #983: Réunion CU - 22 mars;Réunion;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #983: Réunion CU - 22 mars;Réunion;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;THOMAS MAINDRON;rédaction;Tâche #497: Réaliser IHM états transitions - Thomas;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;THOMAS MAINDRON;Réunion;Réunion #983: Réunion CU - 22 mars;Réunion;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Benjamin GONDANGE;Réalisation;Tâche #341: Styliser le document - Benjamin;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Benjamin GONDANGE;Réalisation;Tâche #328: Rédiger la partie introductive;Tâche;Fermé;"";0,75
+SE 2021 A2 - Desoutter;22/03/2020;12;Benjamin GONDANGE;Réalisation;Tâche #762: Rédiger le dictionnaire du domaine - Benjamin;Tâche;Fermé;"";0,25
+SE 2021 A2 - Desoutter;22/03/2020;12;Benjamin GONDANGE;Réalisation;Tâche #524: Organiser le git;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Benjamin GONDANGE;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Ludovic SPILLEBOUT;Réunion;Tâche #366: Rédiger le contexte du projet - Ludovic;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;22/03/2020;12;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Modifier les CU superviseur après la réunion commune;3,00
+SE 2021 A2 - Desoutter;21/03/2020;12;Gatien CHEVALLIER;Réunion;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;21/03/2020;12;THOMAS MAINDRON;Réunion;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;21/03/2020;12;Baptiste GENIER;Réalisation;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;21/03/2020;12;Benjamin GONDANGE;Réunion;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;21/03/2020;12;THOMAS MAINDRON;Réalisation;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;21/03/2020;12;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;21/03/2020;12;Gatien CHEVALLIER;relecture;Bug #714: Bug - Corriger fautes d'orthographe PAQL;Bug;Résolu;Effectué en même temps que le dépôt de la version 1;0,50
+SE 2021 A2 - Desoutter;21/03/2020;12;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #986: Réunion CU - 21 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;21/03/2020;12;Ludovic SPILLEBOUT;Réunion;Tâche #366: Rédiger le contexte du projet - Ludovic;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;20/03/2020;12;THOMAS MAINDRON;Réalisation;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;20/03/2020;12;THOMAS MAINDRON;Réunion;Réunion #732: Réunion hebdomadaire - 20 mars;Réunion;Fermé;"";1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Gwendal COUEDEL;Réalisation;Réunion #530: Réunions hebdomadaires;Réunion;En cours;"";1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Baptiste GENIER;Réunion;Réunion #732: Réunion hebdomadaire - 20 mars;Réunion;Fermé;"";1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Gaston GUYOT;Réalisation;Réunion #732: Réunion hebdomadaire - 20 mars;Réunion;Fermé;Réunion ;1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Gatien CHEVALLIER;Réunion;Réunion #732: Réunion hebdomadaire - 20 mars;Réunion;Fermé;"";1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #732: Réunion hebdomadaire - 20 mars;Réunion;Fermé;"";1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Ludovic SPILLEBOUT;Réunion;Réunion #732: Réunion hebdomadaire - 20 mars;Réunion;Fermé;"";1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Benjamin GONDANGE;Réalisation;Réunion #732: Réunion hebdomadaire - 20 mars;Réunion;Fermé;"";1,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Modification des CU avant consulting;0,50
+SE 2021 A2 - Desoutter;20/03/2020;12;Baptiste GENIER;Réunion;Réunion #724: Consulting CUs - M. DELATOUR - 19 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;20/03/2020;12;Ludovic SPILLEBOUT;Réunion;Réunion #724: Consulting CUs - M. DELATOUR - 19 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;20/03/2020;12;Gaston GUYOT;Réalisation;Réunion #724: Consulting CUs - M. DELATOUR - 19 mars;Réunion;Fermé;Consulting Spec - Gaston;1,00
+SE 2021 A2 - Desoutter;20/03/2020;12;Gatien CHEVALLIER;relecture;Tâche #163: PAQL (Plan Assurance Qualité Logiciel);Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;19/03/2020;12;THOMAS MAINDRON;Réunion;Réunion #724: Consulting CUs - M. DELATOUR - 19 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;19/03/2020;12;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #724: Consulting CUs - M. DELATOUR - 19 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;19/03/2020;12;Benjamin GONDANGE;Réalisation;Tâche #540: Envoyer mail le 12 mars;Tâche;Fermé;"";0,50
+SE 2021 A2 - Desoutter;19/03/2020;12;Benjamin GONDANGE;Réunion;Réunion #724: Consulting CUs - M. DELATOUR - 19 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;19/03/2020;12;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Ajout du CU graphique avant le consulting;0,25
+SE 2021 A2 - Desoutter;18/03/2020;12;Gwendal COUEDEL;Réalisation;Tâche #507: Rédiger architecture matérielle et logicielle - Gwendal;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;18/03/2020;12;Ludovic SPILLEBOUT;rédaction;Tâche #480: Rédiger architecture matérielle et logicielle - Ludovic;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;17/03/2020;12;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Reprise du CU stratégique post consulting (regroupement de 2 CU strat en 1) et reécritude des sous CU;3,75
+SE 2021 A2 - Desoutter;17/03/2020;12;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Révision des fonctions principales développées avec Baptiste;1,75
+SE 2021 A2 - Desoutter;17/03/2020;12;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Révision du CU stratégique avec Baptiste et Benjamin et remise en forme du fichier ;2,00
+SE 2021 A2 - Desoutter;17/03/2020;12;Baptiste GENIER;Réalisation;Réunion #504: Consulting CBOE - M. DELATOUR - 6 mars;Réunion;Fermé;"";0,25
+SE 2021 A2 - Desoutter;17/03/2020;12;Baptiste GENIER;Réalisation;Réunion #531: Réunion hebdomadaire - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;17/03/2020;12;Baptiste GENIER;Réunion;Tâche #503: Consulting;Tâche;En cours;"";1,00
+SE 2021 A2 - Desoutter;16/03/2020;12;Gatien CHEVALLIER;Réunion;Réunion #504: Consulting CBOE - M. DELATOUR - 6 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;16/03/2020;12;Gatien CHEVALLIER;Réunion;Réunion #538: Consulting CBOE - CU - M. DELATOUR - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;16/03/2020;12;Ludovic SPILLEBOUT;Réunion;Réunion #531: Réunion hebdomadaire - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;16/03/2020;12;Ludovic SPILLEBOUT;Réunion;Réunion #538: Consulting CBOE - CU - M. DELATOUR - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;16/03/2020;12;Ludovic SPILLEBOUT;Réunion;Réunion #504: Consulting CBOE - M. DELATOUR - 6 mars;Réunion;Fermé;"";0,25
+SE 2021 A2 - Desoutter;13/03/2020;11;Gaston GUYOT;Réalisation;Réunion #531: Réunion hebdomadaire - 12 mars;Réunion;Fermé;Réunion hebdomadaire semaine 11;1,00
+SE 2021 A2 - Desoutter;13/03/2020;11;Gaston GUYOT;Réalisation;Réunion #504: Consulting CBOE - M. DELATOUR - 6 mars;Réunion;Fermé;"";0,42
+SE 2021 A2 - Desoutter;13/03/2020;11;Gaston GUYOT;Réalisation;Réunion #538: Consulting CBOE - CU - M. DELATOUR - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;12/03/2020;11;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #531: Réunion hebdomadaire - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;12/03/2020;11;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #538: Consulting CBOE - CU - M. DELATOUR - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;12/03/2020;11;Gwendal COUEDEL;Réunion;Réunion #504: Consulting CBOE - M. DELATOUR - 6 mars;Réunion;Fermé;"";0,25
+SE 2021 A2 - Desoutter;12/03/2020;11;Gwendal COUEDEL;Réunion;Réunion #538: Consulting CBOE - CU - M. DELATOUR - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;12/03/2020;11;Benjamin GONDANGE;Réalisation;Tâche #540: Envoyer mail le 12 mars;Tâche;Fermé;"";0,30
+SE 2021 A2 - Desoutter;12/03/2020;11;Benjamin GONDANGE;Réalisation;Réunion #531: Réunion hebdomadaire - 12 mars;Réunion;Fermé;CR rédigé et envoyé sur git;0,25
+SE 2021 A2 - Desoutter;12/03/2020;11;Benjamin GONDANGE;Réalisation;Réunion #538: Consulting CBOE - CU - M. DELATOUR - 12 mars;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;12/03/2020;11;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Relecture des CU et ajout des images;1,00
+SE 2021 A2 - Desoutter;12/03/2020;11;Benjamin GONDANGE;rédaction;Réunion #531: Réunion hebdomadaire - 12 mars;Réunion;Fermé;"";0,50
+SE 2021 A2 - Desoutter;12/03/2020;11;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Ajout de la partie de Baptiste sur l'operateur et modification du CU strategique superviseur;0,50
+SE 2021 A2 - Desoutter;12/03/2020;11;Ludovic SPILLEBOUT;rédaction;Tâche #526: Apprendre LateX - Ludovic;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;12/03/2020;11;Benjamin GONDANGE;Réalisation;Tâche #524: Organiser le git;Tâche;En cours;Début de la réorganisation des fichiers LaTeX et du git de spec;3,50
+SE 2021 A2 - Desoutter;11/03/2020;11;THOMAS MAINDRON;rédaction;Tâche #527: Réaliser IHM Physique Smartphone - Thomas;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;11/03/2020;11;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #518: Réaliser IHM Physique Smartphone- JB;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Correction de tous les AUTRES CU et relecture ;1,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Baptiste GENIER;rédaction;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;"";4,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Ludovic SPILLEBOUT;rédaction;Tâche #480: Rédiger architecture matérielle et logicielle - Ludovic;Tâche;Fermé;Finalisation architecture matérielle et logicielle;1,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Gwendal COUEDEL;rédaction;Tâche #507: Rédiger architecture matérielle et logicielle - Gwendal;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Relecture et amélioration des CU opérateur et superviseur avec Baptiste;3,50
+SE 2021 A2 - Desoutter;11/03/2020;11;Ludovic SPILLEBOUT;rédaction;Tâche #480: Rédiger architecture matérielle et logicielle - Ludovic;Tâche;Fermé;"";3,50
+SE 2021 A2 - Desoutter;11/03/2020;11;Gwendal COUEDEL;Réalisation;Tâche #507: Rédiger architecture matérielle et logicielle - Gwendal;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Gatien CHEVALLIER;Réalisation;Tâche #164: Rédiger la v1;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Benjamin GONDANGE;Réalisation;Réunion #504: Consulting CBOE - M. DELATOUR - 6 mars;Réunion;Fermé;"";0,25
+SE 2021 A2 - Desoutter;11/03/2020;11;THOMAS MAINDRON;rédaction;Tâche #497: Réaliser IHM états transitions - Thomas;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;11/03/2020;11;Benjamin GONDANGE;Réalisation;Tâche #471: Créer le budget prévisionnel;Tâche;Fermé;Finalisation du excel avec heures de ProSE, budget estimé, réalisé et payé;2,50
+SE 2021 A2 - Desoutter;11/03/2020;11;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Ajout des CU superviseur stratégique et des autres CU superviseur;2,00
+SE 2021 A2 - Desoutter;10/03/2020;11;JEAN-BAPTISTE RAYMOND;rédaction;Tâche #479: Rédiger les fonctions principales développées - JB;Tâche;Fermé;"";1,50
+SE 2021 A2 - Desoutter;10/03/2020;11;Benjamin GONDANGE;relecture;Tâche #165: Relire le PAQL - Benjamin;Tâche;Fermé;Relecture complète du PAQL, 284 commentaires sur le pdf (révision 6);2,50
+SE 2021 A2 - Desoutter;10/03/2020;11;Benjamin GONDANGE;Réalisation;Tâche #471: Créer le budget prévisionnel;Tâche;Fermé;"";4,00
+SE 2021 A2 - Desoutter;10/03/2020;11;Gaston GUYOT;Réalisation;Tâche #368: Rédiger les Fonctions Principales développées - Gaston;Tâche;Fermé;Reflexion sur le CU stratégique opérateur, première rédaction, utilisation de latex;4,00
+SE 2021 A2 - Desoutter;09/03/2020;11;THOMAS MAINDRON;rédaction;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;09/03/2020;11;Benjamin GONDANGE;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;08/03/2020;10;Gatien CHEVALLIER;Réalisation;Tâche #164: Rédiger la v1;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;08/03/2020;10;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Redaction de la partie rappel et présentation des CU;1,00
+SE 2021 A2 - Desoutter;07/03/2020;10;Gatien CHEVALLIER;Réunion;Réunion #1089: Consulting Scénarios de Validation - Mme. CONSTANT - 06 avril;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;07/03/2020;10;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Rédaction partielle du CU Se connecter du CU stratégique opérateur;1,00
+SE 2021 A2 - Desoutter;06/03/2020;10;JEAN-BAPTISTE RAYMOND;Réalisation;Réunion #504: Consulting CBOE - M. DELATOUR - 6 mars;Réunion;Fermé;"";0,25
+SE 2021 A2 - Desoutter;06/03/2020;10;Gatien CHEVALLIER;Réalisation;Tâche #164: Rédiger la v1;Tâche;En cours;"";3,50
+SE 2021 A2 - Desoutter;06/03/2020;10;THOMAS MAINDRON;rédaction;Tâche #497: Réaliser IHM états transitions - Thomas;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;06/03/2020;10;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #159: Concevoir IHM - JB;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;06/03/2020;10;THOMAS MAINDRON;rédaction;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;06/03/2020;10;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Correction post consulting et rédaction partielle de la partie textuelle du CU stratégique opérateur ;2,00
+SE 2021 A2 - Desoutter;06/03/2020;10;Baptiste GENIER;Réalisation;Tâche #369: Rédiger les Fonctions Principales développées - Baptiste;Tâche;Fermé;Reflexion sur le CU stratégique opérateur, première rédaction, utilisation de latex;3,75
+SE 2021 A2 - Desoutter;06/03/2020;10;Ludovic SPILLEBOUT;rédaction;Tâche #366: Rédiger le contexte du projet - Ludovic;Tâche;Fermé;Rédaction acteurs;2,50
+SE 2021 A2 - Desoutter;06/03/2020;10;Benjamin GONDANGE;Réalisation;Tâche #328: Rédiger la partie introductive;Tâche;Fermé;"";4,00
+SE 2021 A2 - Desoutter;06/03/2020;10;Gwendal COUEDEL;Réalisation;Tâche #367: Rédiger le contexte du projet - Gwendal;Tâche;Fermé;"";2,50
+SE 2021 A2 - Desoutter;06/03/2020;10;Gaston GUYOT;expérimentation;Tâche #335: Apprendre LateX - Gaston;Tâche;Fermé;Installation et début de formation;1,00
+SE 2021 A2 - Desoutter;06/03/2020;10;JEAN-BAPTISTE RAYMOND;Réalisation;Tâche #342: Apprendre Latex - JB;Tâche;Fermé;"";1,50
+SE 2021 A2 - Desoutter;05/03/2020;10;Baptiste GENIER;expérimentation;Tâche #334: Apprendre LateX - Baptiste;Tâche;Fermé;Installation et premier apprentissage de LateX;1,50
+SE 2021 A2 - Desoutter;05/03/2020;10;Benjamin GONDANGE;Réalisation;Tâche #333: Organiser Redmine;Tâche;En cours;"";3,00
+SE 2021 A2 - Desoutter;05/03/2020;10;Benjamin GONDANGE;Réalisation;Tâche #325: Création du planning prévisionnel;Tâche;Fermé;Création du planning et estimation des jalons importants, envoi au RQT pour vérification, il reste à l'envoyer au client;2,00
+SE 2021 A2 - Desoutter;05/03/2020;10;Benjamin GONDANGE;rédaction;Tâche #323: Créer le squelete du fichier;Tâche;Fermé;"";3,00
+SE 2021 A2 - Desoutter;05/03/2020;10;Gaston GUYOT;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;03/03/2020;10;THOMAS MAINDRON;Réalisation;Tâche #336: Relecture;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;THOMAS MAINDRON;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;Gatien CHEVALLIER;Réalisation;Tâche #164: Rédiger la v1;Tâche;En cours;"";2,00
+SE 2021 A2 - Desoutter;02/03/2020;10;Gatien CHEVALLIER;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;JEAN-BAPTISTE RAYMOND;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;Benjamin GONDANGE;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;THOMAS MAINDRON;rédaction;Tâche #788: Concevoir IHM - Thomas;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;JEAN-BAPTISTE RAYMOND;rédaction;Tâche #159: Concevoir IHM - JB;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;Gaston GUYOT;rédaction;Tâche #149: Rédiger les CBOE - Gaston;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;02/03/2020;10;Baptiste GENIER;rédaction;Tâche #150: Rédiger les CBOE - Baptiste;Tâche;Fermé;"";1,00
+SE 2021 A2 - Desoutter;01/03/2020;9;Gatien CHEVALLIER;rédaction;Tâche #164: Rédiger la v1;Tâche;En cours;"";3,50
+SE 2021 A2 - Desoutter;25/02/2020;9;Gatien CHEVALLIER;Réalisation;Tâche #164: Rédiger la v1;Tâche;En cours;"";4,00
+SE 2021 A2 - Desoutter;25/02/2020;9;Benjamin GONDANGE;Réalisation;Tâche #90: Rédiger le compte rendu;Tâche;Fermé;"";2,00
+SE 2021 A2 - Desoutter;25/02/2020;9;Benjamin GONDANGE;rédaction;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";2,00
+SE 2021 A2 - Desoutter;13/02/2020;7;Gwendal COUEDEL;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/02/2020;7;Baptiste GENIER;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
+SE 2021 A2 - Desoutter;13/02/2020;7;Ludovic SPILLEBOUT;Réunion;Réunion #89: Réunion client - 15 fevrier;Réunion;Fermé;"";1,00
